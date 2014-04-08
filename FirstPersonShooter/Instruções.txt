@@ -1,0 +1,12 @@
+Instruções do aplicativo
+
+O Aplicativo será enviado via email.
+
+Deverá ser instalado em um dispositivo android que possua SD-CARD.
+
+após instalado coloque o arquivo de log na raiz do SD-CARD.
+
+abra o aplicativo e digite o nome do arquivo de log com a extensão exp: logFPS.txt
+
+logo após aperte no botão comecar.
+
